@@ -15,7 +15,9 @@ In this code, I defined the variables in the wrong order. Because I didn't defin
 In my revision, I changed the order of my variable definitions: 
 
 let f = 99;
+
 const c = ((f-32)*(5/9));
+
 console.log(c);
 
 This code was able to run correctly, producing the answer of approximately 37.2.  
