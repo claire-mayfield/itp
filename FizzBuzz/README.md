@@ -25,4 +25,58 @@ This code didn't quite work because it simply printed out all numbers from 1 to 
 75
 90
 
+Next, I combined a couple of different codes from the code-along to produce this: 
+
+`let i = 150;
+for (let i = 1; i <= 100; i++) {
+  if (i % 3 === 0) {
+    console.log("Fizz");
+  }
+}{
+  if (i % 5 === 0) {
+    console.log("Buzz");
+  }
+}{
+  if (i % 5 === 0 && i % 5 === 0) {
+    console.log("FizzBuzz");
+  }
+}`
+
+This produced this result, which was on the right track, but not quite right: 
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Fizz
+Buzz
+FizzBuzz
+
   
