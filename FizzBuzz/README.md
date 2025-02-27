@@ -16,6 +16,13 @@ I started by copying the following code from our code-along from class:
       }
     }` 
 
-This code didn't quite work because it simply printed out all numbers from 1 to 100 that are divisible by both 3 and 5. 
+This code didn't quite work because it simply printed out all numbers from 1 to 100 that are divisible by both 3 and 5, looking like this: 
+
+15
+30
+45
+60
+75
+90
 
   
