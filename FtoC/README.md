@@ -5,7 +5,9 @@ To write this program, I followed the same steps that we did in our code along i
 The first code I did was close to being correct, but not quite: 
 
 const c = ((f-32)*(5/9));
+
 let f = 99;
+
 console.log(c);
 
 In this code, I defined the variables in the wrong order. Because I didn't define f first, it wasn't possible for the computer to define c (since the value of c is dependent on the value of f). 
