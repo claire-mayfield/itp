@@ -1,3 +1,3 @@
-# Welcome to my Intro to Programming Page! 
+# Welcome to my repository! 
 
-:)
+:) :) :)
