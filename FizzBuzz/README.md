@@ -42,7 +42,8 @@ for (let i = 1; i <= 100; i++) {
   }
 }`
 
-This produced this result, which was on the right track, but not quite right: 
+This produced this result, which was on the right track, but not quite right. The problem with this code is that it prints "Fizz" several times, but is missing many instances where it should also be printing "Buzz" and "Fizzbuzz." Also, there are no other integers in this result: 
+
 Fizz
 Fizz
 Fizz
@@ -94,7 +95,8 @@ for (let i = 1; i <= 100; i++) {
   }
 }`
 
-This code produced this result: 
+This code produced this result. The problem with this code is that the code does not print the other numbers aside from the ones that are divisible by 3, divisible by 5, or divisible by both 3 AND 5:
+ 
 Fizz
 Buzz
 Fizz
@@ -155,7 +157,7 @@ Fizz
 Fizz
 Buzz
 
-Next I tried this: 
+Next, I added an else statement, telling the code to print the number if the other conditions don't apply to it: 
 
 `let i = 150;
 for (let i = 1; i <= 100; i++) {
@@ -173,7 +175,7 @@ for (let i = 1; i <= 100; i++) {
   }
 }`
 
-This code produced this, which was closer to the desired result: 
+This code produced this, which was closer to the desired result. The problem with this code is that when it reached a number divisible by 3 or 5, it printed the number AND "Fizz" or "Buzz." Another problem with this code is that when something is divisible by 3 AND 5, it first prints "Fizz," then prints "Buzz," then prints "Fizz Buzz:"
 
 1
 2
@@ -207,7 +209,9 @@ Buzz
 20
 ...and so on. 
 
-Next, I did this: 
+Next, I fixed these problems by having the computer evaluate the condition where the number is divisible by 3 AND 5 FIRST. I used "else if" in order to name specific exceptions to printing "Fizzbuzz" and used "else" to describe all other scenerios.  
+
+The logic of this code in human language is as follows: Print all integers from 1 to 100. If a number is divisible by 3 AND 5, print "Fizzbuzz." Otherwise, if a number is divisible by 3, print "Fizz." Otherwise, if a number is divisible by 5, print "Buzz." Otherwise, if none of these conditions apply, print the number as is. Here's the code: 
 
 `let i = 150;
 for (let i = 1; i <= 100; i++) {
