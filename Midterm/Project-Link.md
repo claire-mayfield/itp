@@ -1,1 +1,1 @@
-[Full Screen] https://editor.p5js.org/claire-mayfield/full/VRP0dh7MQ
+[Full Screen](https://editor.p5js.org/claire-mayfield/full/VRP0dh7MQ)
