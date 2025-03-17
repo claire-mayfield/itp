@@ -1,6 +1,7 @@
 # Documentation
 
-1)Here is the first version of my code. This code was copied exactly from the code from our class midterm instructions. The only thing I changed in this first version is the name of the audio file to be played (SwordSearch.wav), and I uploaded the file as well. Running this code will play my Sword Search file when the 'p' key is pressed:  
+#1) Here is the first version of my code. 
+This code was copied exactly from the code from our class midterm instructions. The only thing I changed in this first version is the name of the audio file to be played (SwordSearch.wav), and I uploaded the file as well. Running this code will play my Sword Search file when the 'p' key is pressed:  
 
 let myFirstSound;
 
@@ -36,7 +37,8 @@ function playCustomSound() {
   }
 }
 
-2)In the next version, I customized the text that appears on the screen when the code is run. I added some empty lines in between sentences for easier reading. With the added text, I needed to change the size of the canvas to 600, 400. I also decided on which key would be assigned to each audio file: 
+#2) Here's the next version. 
+I customized the text that appears on the screen when the code is run. I added some empty lines in between sentences for easier reading. With the added text, I needed to change the size of the canvas to 600, 400. I also decided on which key would be assigned to each audio file: 
 
 let myFirstSound;
 
@@ -72,7 +74,8 @@ function playCustomSound() {
   }
 }
 
-3)Next, I renamed the functions involving my first audio file, which is titled "SwordSearch.wav." This doesn't effect the way that the code runs, but makes the code easier to decipher and understand. I changed "let myFirstSound" to "let SwordSearch," and then I changed "playCustomSound" to "playSwordSearch:"
+#3) Here's the next version. 
+I renamed the functions involving my first audio file, which is titled "SwordSearch.wav." This doesn't effect the way that the code runs, but makes the code easier to decipher and understand. I changed "let myFirstSound" to "let SwordSearch," and then I changed "playCustomSound" to "playSwordSearch:"
 
 let SwordSearch;
 
@@ -108,7 +111,8 @@ function playSwordSearch() {
   }
 }
 
-4)Next, I added messages that would appear in the console in order to inform me of the order that things were loaded. In the function preload, text saying "entering function preload" would appear in the console. In the function setup, text saying "entering function setup" would appear. I also added a let statement for SpaceRunner, the next audio file that I would be adding to this code: 
+# 4)Here's my next version.
+I added messages that would appear in the console in order to inform me of the order that things were loaded. In the function preload, text saying "entering function preload" would appear in the console. In the function setup, text saying "entering function setup" would appear. I also added a let statement for SpaceRunner, the next audio file that I would be adding to this code: 
 
 let SwordSearch;
 
