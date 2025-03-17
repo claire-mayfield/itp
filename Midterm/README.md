@@ -1,7 +1,7 @@
 # DOCUMENTATION
 
 # Version 1: 
-This code was copied exactly from the code from our class midterm instructions. The only thing I changed in this first version is the name of the audio file to be played (SwordSearch.wav), and I uploaded the file as well. Running this code will play my Sword Search file when the 'p' key is pressed:  
+**-This code was copied exactly from the code from our class midterm instructions. The only thing I changed in this first version is the name of the audio file to be played (SwordSearch.wav), and I uploaded the file as well. Running this code will play my Sword Search file when the 'p' key is pressed:**  
 
 let myFirstSound;
 
@@ -38,7 +38,7 @@ function playCustomSound() {
 }
 
 # Version 2: 
-I customized the text that appears on the screen when the code is run. I added some empty lines in between sentences for easier reading. With the added text, I needed to change the size of the canvas to 600, 400. I also decided on which key would be assigned to each audio file: 
+**-I customized the text that appears on the screen when the code is run. I added some empty lines in between sentences for easier reading. With the added text, I needed to change the size of the canvas to 600, 400. I also decided on which key would be assigned to each audio file:** 
 
 let myFirstSound;
 
@@ -75,7 +75,7 @@ function playCustomSound() {
 }
 
 # Version 3: 
-I renamed the functions involving my first audio file, which is titled "SwordSearch.wav." This doesn't effect the way that the code runs, but makes the code easier to decipher and understand. I changed "let myFirstSound" to "let SwordSearch," and then I changed "playCustomSound" to "playSwordSearch:"
+**-I renamed the functions involving my first audio file, which is titled "SwordSearch.wav." This doesn't effect the way that the code runs, but makes the code easier to decipher and understand. I changed "let myFirstSound" to "let SwordSearch," and then I changed "playCustomSound" to "playSwordSearch:"**
 
 let SwordSearch;
 
@@ -112,7 +112,7 @@ function playSwordSearch() {
 }
 
 # Version 4:
-I added messages that would appear in the console in order to inform me of the order that things were loaded. In the function preload, text saying "entering function preload" would appear in the console. In the function setup, text saying "entering function setup" would appear. I also added a let statement for SpaceRunner, the next audio file that I would be adding to this code: 
+**-I added messages that would appear in the console in order to inform me of the order that things were loaded. In the function preload, text saying "entering function preload" would appear in the console. In the function setup, text saying "entering function setup" would appear. I also added a let statement for SpaceRunner, the next audio file that I would be adding to this code:** 
 
 let SwordSearch;
 
@@ -153,7 +153,9 @@ function playSwordSearch() {
 }
  
 # Version 5:
-Next, in the "function preload", I added a "loadsound" for my "SpaceRunner" file, making it possible to be played by my code. Then, under my "keyPressed" function, I added another "if" statement that tells the program to play "SpaceRunner" if the 'r' key is pressed. Then, I added a "playSpaceRunner" function, which tells the console the sound is played, if the sound is loaded and played. Otherwise, it will tell the console that the sound isn't loaded yet. The result of this code is that it will play "SwordSwearch" when the key 's' is pressed, and it will play "SpaceRunner" when the key 'r' is pressed: 
+**-Next, in the "function preload", I added a "loadsound" for my "SpaceRunner" file, making it possible to be played by my code. Then, under my "keyPressed" function, I added another "if" statement that tells the program to play "SpaceRunner" if the 'r' key is pressed.**
+
+**-Then, I added a "playSpaceRunner" function, which tells the console the sound is played, if the sound is loaded and played. Otherwise, it will tell the console that the sound isn't loaded yet. The result of this code is that it will play "SwordSwearch" when the key 's' is pressed, and it will play "SpaceRunner" when the key 'r' is pressed:** 
 
 let SwordSearch;
 
