@@ -3,7 +3,7 @@ Here is a link to the [full screen](https://editor.p5js.org/claire-mayfield/full
 
 Here is a link to the [editor](https://editor.p5js.org/claire-mayfield/sketches/VRP0dh7MQ) version of my project.
 
-#DOCUMENTATION
+# DOCUMENTATION
 # Version 1: 
 **This code was copied exactly from the code from our class midterm instructions. The only thing I changed in this first version is the name of the audio file to be played (SwordSearch.wav), and I uploaded the file as well. Running this code will play my Sword Search file when the 'p' key is pressed:**  
 
