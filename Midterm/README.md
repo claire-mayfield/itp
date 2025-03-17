@@ -2,7 +2,7 @@
 
 Here is the first version of my code: 
 
-'let myFirstSound;
+`let myFirstSound;
 
 function preload() {
   soundFormats('wav', 'mp3');  
@@ -34,4 +34,4 @@ function playCustomSound() {
   } else {
     console.log("Sound not loaded yet.");
   }
-}'
+}`
