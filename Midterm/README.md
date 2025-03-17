@@ -1,9 +1,9 @@
-# Documentation
+# DOCUMENTATION
 
 # Version 1: 
 This code was copied exactly from the code from our class midterm instructions. The only thing I changed in this first version is the name of the audio file to be played (SwordSearch.wav), and I uploaded the file as well. Running this code will play my Sword Search file when the 'p' key is pressed:  
 
-let myFirstSound;
+`let myFirstSound;
 
 function preload() {
   soundFormats('wav', 'mp3');  
@@ -35,7 +35,7 @@ function playCustomSound() {
   } else {
     console.log("Sound not loaded yet.");
   }
-}
+}`
 
 # Version 2: 
 I customized the text that appears on the screen when the code is run. I added some empty lines in between sentences for easier reading. With the added text, I needed to change the size of the canvas to 600, 400. I also decided on which key would be assigned to each audio file: 
