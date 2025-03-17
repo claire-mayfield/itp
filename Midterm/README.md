@@ -1,6 +1,6 @@
 # Documentation
 
-Here is the first version of my code: 
+Here is the first version of my code. This code was copied exactly from the code from our class midterm instructions. The only thing I changed in this first version is the name of the audio file to be played (SwordSearch.wav), and I uploaded the file as well:  
 
 `let myFirstSound;
 
@@ -35,3 +35,4 @@ function playCustomSound() {
     console.log("Sound not loaded yet.");
   }
 }`
+
