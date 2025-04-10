@@ -4,7 +4,7 @@
 
 Claire Mayfield's Website
 
-## In just a sentence or two, summarize your project. (E.g., "My project a web-based synthesizer.")
+## In just a sentence or two, summarize your project. 
 
 I would like to make a portfolio website that showcases my accomplishments, compositions, and resume. 
 
@@ -17,6 +17,8 @@ I would like to make a portfolio website that showcases my accomplishments, comp
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
 I would like to have a main page for my website with various additional pages such as a bio page, a photos page, and a contact me page. In my bio, I will include a few paragraphs about my musical background and accomplishments. In my photos page, I will upload 5-10 photos from performances, recording sessions, and other music related activities. In my contact me page, I will have links to all of my social medias. If I have extra time, I could create a text box for the user to send me a message directly from my website. 
+
+I will be programming my website using HTML. 
 
 ## Will any work as part of this project overlap with any work you are doing outside of this class? For another class? Who is the professor in this class?
 
