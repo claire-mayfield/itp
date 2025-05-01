@@ -1,6 +1,9 @@
-# Documentation
+# DOCUMENTATION
 
-<pre><!DOCTYPE html>
+## Step 1
+First, I started with [this code.](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default)
+
+<!DOCTYPE html>
 <html>
 <head>
 <title>Page Title</title>
@@ -11,4 +14,4 @@
 <p>This is a paragraph.</p>
 
 </body>
-</html></pre>
+</html>
