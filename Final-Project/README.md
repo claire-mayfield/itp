@@ -35,3 +35,13 @@ First, I followed [these instructions](https://pages.github.com/) in order to ma
 
 ### Step 3g: Inserting an Audio File
 - Next, I used the code from [your Github example website](https://rdwrome.github.io/) to insert an audio file. 
+
+## STEP 4: BIO PAGE
+
+## STEP 5: LISTEN PAGE
+
+## STEP 6: PHOTOS PAGE
+
+## STEP 7: CONTACT PAGE
+
+## STEP 8: SECRET PAGE
