@@ -56,13 +56,20 @@ First, I followed [these instructions](https://pages.github.com/) in order to ma
 - Then, I used the code from step 3d to make the title of the game I've worked on be in italics. 
 
 ## STEP 5: LISTEN PAGE
+### Step 5a: Using Code from Step 3
 - I used the same code from step 3c to set the background color for this page. 
 - Then, I used the same code from step 3b to set the font and font size. 
 - Then, I used the same code from step 3a to center my text. 
 - Then, I used the code from step 3d to make necessary words in bold or italics.  
 - Next, I used the same code from step 3g to insert my audio files. 
-- Next, I used the same code from step 3f to insert and size my images.  
+- Next, I used the same code from step 3f to insert and size my images. 
+### Step 5b: Horizontal Lines 
 - Next, I used [this code](https://www.w3schools.com/tags/tag_hr.asp) to insert horizontal lines onto my page, to separate the different sections within this page. 
+### Step 5c: Inserting Video
+- Next, I used [this code](https://www.w3schools.com/html/html5_video.asp) to insert a video. 
+### Step 5d: Inserting an Image as a Link
+- Next, I used [this code](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_image) to insert an image as a link.
+- I combined this with the code from step 3e to make it so the image links to another page on my site. If the user clicks on the goose photo, it will take them to a secret page on my website filled with fun facts. 
 
 ## STEP 6: PHOTOS PAGE
 
