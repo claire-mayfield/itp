@@ -1,4 +1,4 @@
-# DOCUMENTATION [Here](https://claire-mayfield.github.io/) is the link to my website!
+# DOCUMENTATION [(Website Link)](https://claire-mayfield.github.io/)
 
 ## Step 1
 First, I started with [this code.](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default)
