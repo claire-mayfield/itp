@@ -18,6 +18,20 @@ First, I followed [these instructions](https://pages.github.com/) in order to ma
 ### Step 3b: Fonts
 - Next, I used [this code](https://blog.hubspot.com/website/web-safe-html-css-fonts) to establish the font for this page. I chose the font "Optima", as shown in #21 on the website.  
 
-### Step 3c: Background Color
+### Step 3c: Background Colors
 - Next, I used [this code](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_color_background) to establish a background color. 
-- I chose the color name using [this list](https://www.w3schools.com/tags/ref_colornames.asp) of HTML colors. I chose "aliceblue".  
+- I chose the color name using [this list](https://www.w3schools.com/tags/ref_colornames.asp) of HTML colors. I chose "aliceblue".
+
+### Step 3d: Bold and Italics 
+- Next, I used [this code](https://www.shecodes.io/athena/20369-how-to-make-text-italics-in-html#google_vignette) to create italics. 
+- I used [this code](https://www.shecodes.io/athena/9207-making-text-bold-in-html#:~:text=To%20make%20text%20bold%20in%20HTML%2C%20you%20can%20use%20the,the%20text%20inside%20them%20bold.) to make text bold. 
+
+### Step 3e: Navigating to Other Pages
+- Next, I used the code from [your website](https://racheldevorah.studio/) to create navigation links to the other pages on my website. 
+- I used [this code](https://www.w3schools.com/html/html_entities.asp) to create spaces between the links using "&nbsp" 
+
+### Step 3f: Inserting and Sizing an Image
+- Next, I used [this code](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_images_attributes) to insert an image. Then, I adjusted the width and height, measured in pixels. I kept the same proportions as the original 7 by 5 image, making it 700 by 500 pixels.
+
+### Step 3g: Inserting an Audio File
+- Next, I used the code from [your Github example website](https://rdwrome.github.io/) to insert an audio file. 
