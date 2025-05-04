@@ -3,7 +3,7 @@
 Here is a link to [my website!](https://claire-mayfield.github.io/)
 
 ## STEP 1: CREATING THE WEBSITE
-First, I followed [these instructions](https://pages.github.com/) in order to make a website with pages.github.com, using my Github username. This involved creating a repository for my website, setting it up in desktop, creating an index.html file, and publishing it. 
+- First, I followed [these instructions](https://pages.github.com/) in order to make a website with pages.github.com, using my Github username. This involved creating a repository for my website, setting it up in desktop, creating an index.html file, and publishing it. 
 
 ## STEP 2: CREATING PAGES
 - Next, within the main folder for this website, I created subfolders for each page of the website: "Bio", "Listen", "Photos", "Contact", and a folder for a secret page of my website titled "FunFacts".
@@ -44,25 +44,30 @@ First, I followed [these instructions](https://pages.github.com/) in order to ma
 
 ## STEP 4: BIO PAGE
 ### Step 4a: Using Code from Step 3 
-- I used the same code from step 3c to set the background color for this page. 
+- Then, I used the same code from step 3a to center my text.
 - Then, I used the same code from step 3b to set the font and font size. 
-- Then, I used the same code from step 3a to center my text. 
-- Next, I used the same code from step 3g to insert an audio file.
-- Next, I used the same code from step 3f to insert and size my image. 
+- I used the same code from step 3c to set the background color for this page.
+- Then, I used the code from step 3d to make the title of the game I've worked on be in italics. 
+- Then, I used the code from step 3e to create a link back to the main page.   
+- Next, I used the same code from step 3f to insert and size my image.
+- Next, I used the same code from step 3g to insert an audio file. 
+- Next, I used the code from step 3h to insert empty lines, when needed.
+
 ### Step 4b: Setting Margins
 - Next, I used [this code](https://www.w3schools.com/css/tryit.asp?filename=trycss_margin_intro) to set the margins of my page. 
 ### Step 4c: Setting Division
-- Then, I used [this code](https://www.w3schools.com/tags/tag_div.ASP) to set the division for my paragraph. 
-- Then, I used the code from step 3d to make the title of the game I've worked on be in italics. 
+- Then, I used [this code](https://www.w3schools.com/tags/tag_div.ASP) to set the division for my paragraph.
 
 ## STEP 5: LISTEN PAGE
 ### Step 5a: Using Code from Step 3
-- I used the same code from step 3c to set the background color for this page. 
-- Then, I used the same code from step 3b to set the font and font size. 
-- Then, I used the same code from step 3a to center my text. 
-- Then, I used the code from step 3d to make necessary words in bold or italics.  
+- First, I used the same code from step 3a to center my text. 
+- Then, I used the same code from step 3b to set the font and font size.
+- Then, I used the same code from step 3c to set the background color for this page.  
+- Then, I used the code from step 3d to make necessary words in bold or italics.
+- Then, I used the code from step 3e to create a link back to the main page. I also used the same code from step 3e to insert a link to one of my Youtube videos. 
+- Next, I used the same code from step 3f to insert and size my images.
 - Next, I used the same code from step 3g to insert my audio files. 
-- Next, I used the same code from step 3f to insert and size my images. 
+- Next, I used the code from step 3h to insert empty lines, when needed.  
 ### Step 5b: Horizontal Lines 
 - Next, I used [this code](https://www.w3schools.com/tags/tag_hr.asp) to insert horizontal lines onto my page, to separate the different sections within this page. 
 ### Step 5c: Inserting Video
@@ -70,9 +75,42 @@ First, I followed [these instructions](https://pages.github.com/) in order to ma
 ### Step 5d: Inserting an Image as a Link
 - Next, I used [this code](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_image) to insert an image as a link.
 - I combined this with the code from step 3e to make it so the image links to another page on my site. If the user clicks on the goose photo, it will take them to a secret page on my website filled with fun facts. 
+### Step 5e: Inserting a Paragraph
+- Next, I used the [paragraph tag](https://www.w3schools.com/tags/tag_p.asp) every time I wrote text in a paragraph or a caption. 
 
 ## STEP 6: PHOTOS PAGE
+### Step 6a: Using Code from Step 3 
+- First, I used the same code from step 3a to center my text.
+- Then, I used the same code from step 3b to set the font and font size. 
+- I used the same code from step 3c to set the background color for this page.
+- Then, I used the code from step 3d to set necessary text in bold or italics.
+- Then, I used the code from step 3e to create a link back to the main page.    
+- Next, I used the same code from step 3f to insert and size my images. 
+- Next, I used the same code from step 3g to insert an audio file.
+- Next, I used the code from step 3h to insert empty lines, when needed.
+
+### Step 6b: Using Code from Step 5
+- Next, I used the code from step 5e for all of my captions on the photos. 
 
 ## STEP 7: CONTACT PAGE
+### Step 7a: Using Code from Step 3
+- First, I used the same code from step 3a to center my text.
+- Then, I used the same code from step 3b to set the font and font size. 
+- I used the same code from step 3c to set the background color for this page.
+- Then, I used the code from step 3e to create a link back to the main page.
+- Next, I used the code from step 3h to insert empty lines, when needed.
+### Step 7b: Using Code from Step 5
+- Next, I used the same code from step 5d to insert images as links. 
+- Each social media logo can be clicked on, which will take the user to my different social media pages. 
+- I also used code from step 5e, making it so the user can also click on the text for each social media name, which will take the user to my different social media pages. This gives the user more than one way to navigate to my social medias, making it even easier and obvious for them to navigate to them. 
 
 ## STEP 8: SECRET PAGE
+### Step 8a: Using Code from Step 3
+- Then, I used the same code from step 3a to center my text.
+- Then, I used the same code from step 3b to set the font and font size. 
+- I used the same code from step 3c to set the background color for this page.  
+- Then, I used the code from step 3e to create a link back to the "Listen" page. 
+- Next, I used the same code from step 3f to insert and size my images.  
+- Next, I used the code from step 3h to insert empty lines, when needed.
+### Step 8b: Using Code from Step 5
+- Next, I used the code from step 5e for all of my captions on the photos.
