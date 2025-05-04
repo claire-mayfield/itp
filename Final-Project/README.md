@@ -14,6 +14,7 @@ First, I followed [these instructions](https://pages.github.com/) in order to ma
 ### Step 3a: Getting Started
 - Next, I coded the main page of my website. I started with [this code](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default). 
 - This code informs the browser that the code is in HTML, contains metadata, establishes the title of the page (what you see as the title of the tab), and defines that body of the document. Then, it establishes a heading and a paragraph.
+- Then, I used [this code](https://www.w3schools.com/tags/tag_center.ASP) to center my text.
 
 ### Step 3b: Fonts
 - Next, I used [this code](https://blog.hubspot.com/website/web-safe-html-css-fonts) to establish the font for this page. I chose the font "Optima", as shown in #21 on the website.  
@@ -37,6 +38,11 @@ First, I followed [these instructions](https://pages.github.com/) in order to ma
 - Next, I used the code from [your Github example website](https://rdwrome.github.io/) to insert an audio file. 
 
 ## STEP 4: BIO PAGE
+- I used the same code from step 3c to set the background color for this page. 
+- Then, I used the same code from step 3b to set the font.
+- Then, I used the same code from step 3a to center my text. 
+
+
 
 ## STEP 5: LISTEN PAGE
 
