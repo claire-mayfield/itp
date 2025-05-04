@@ -20,4 +20,4 @@ First, I followed [these instructions](https://pages.github.com/) in order to ma
 
 ### Step 3c: Background Color
 - Next, I used [this code](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_color_background) to establish a background color. 
-- I chose the color name using [this list](https://www.w3schools.com/tags/ref_colornames.asp) of HTML colors. 
+- I chose the color name using [this list](https://www.w3schools.com/tags/ref_colornames.asp) of HTML colors. I chose "aliceblue".  
